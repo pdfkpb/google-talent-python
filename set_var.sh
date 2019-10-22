@@ -1,1 +1,0 @@
-export GOOGLE_APPLICATION_CREDENTIALS="/home/pdf/repositories/TFM/PythonTestGoogleTalentAPI/credentials.json"
